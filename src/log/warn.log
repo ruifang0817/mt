@@ -1,0 +1,171 @@
+2021-09-18 10:40:50.121 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yt.meituan]' package. Please check your configuration.
+2021-09-18 10:40:56.613 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2021-09-18 10:40:56.614 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2021-09-18 10:46:34.295 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2021-09-18 10:46:34.297 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2021-09-18 10:47:00.852 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2021-09-18 10:47:00.854 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2021-09-18 10:48:52.183 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yt.meituan.mapper]' package. Please check your configuration.
+2021-09-18 10:48:55.639 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2021-09-18 10:48:55.640 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2021-09-18 10:55:16.880 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yt.meituan.mapper]' package. Please check your configuration.
+2021-09-18 10:55:22.068 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2021-09-18 10:55:22.069 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2021-09-18 10:58:09.980 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yt.meituan.mapper]' package. Please check your configuration.
+2021-09-18 10:58:15.009 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2021-09-18 10:58:15.011 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2021-09-18 11:09:05.037 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2021-09-18 11:09:05.038 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2021-09-18 11:09:24.132 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2021-09-18 11:09:24.133 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2021-09-18 11:09:46.092 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2021-09-18 11:09:46.093 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2021-09-18 11:10:06.368 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2021-09-18 11:10:06.369 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2021-09-18 11:13:14.353 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2021-09-18 11:13:14.355 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2021-09-18 11:13:33.605 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2021-09-18 11:13:33.607 [main] WARN  org.apache.velocity.deprecation - configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2021-09-18 11:33:08.615 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[top.grf.back.mapper, top.grf.back.modules.*.mapper]' package. Please check your configuration.
+2021-09-18 11:33:42.265 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[top.grf.back.mapper, top.grf.back.modules.*.mapper]' package. Please check your configuration.
+2021-09-18 11:36:14.282 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[top.grf.back.mapper, top.grf.back.modules.*.mapper]' package. Please check your configuration.
+2021-09-18 11:41:26.426 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[top.grf.back.mapper, top.grf.back.modules.*.mapper]' package. Please check your configuration.
+2021-09-18 11:41:46.299 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[top.grf.back.mapper, top.grf.back.modules.*.mapper]' package. Please check your configuration.
+2021-09-18 11:42:10.791 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[top.grf.back.mapper, top.grf.back.modules.*.mapper]' package. Please check your configuration.
+2021-09-18 11:44:02.098 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[top.grf.back.mapper, top.grf.back.modules.*.mapper]' package. Please check your configuration.
+2021-09-18 11:46:54.803 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAdvertisingMapper' and 'com.yt.meituan.mapper.MtAdvertisingMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:46:54.803 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAttachmentMapper' and 'com.yt.meituan.mapper.MtAttachmentMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:46:54.803 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtDictionariesMapper' and 'com.yt.meituan.mapper.MtDictionariesMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:46:54.803 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtOssMapper' and 'com.yt.meituan.mapper.MtOssMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:46:54.804 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtRestaurantMapper' and 'com.yt.meituan.mapper.MtRestaurantMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:46:54.804 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtVarietyMapper' and 'com.yt.meituan.mapper.MtVarietyMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:46:54.804 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'sysUserMapper' and 'com.yt.meituan.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:46:54.804 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yt.meituan.mapper]' package. Please check your configuration.
+2021-09-18 11:48:40.140 [http-nio-8082-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error updating database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLNonTransientConnectionException: Cannot load connection class because of underlying exception: com.mysql.cj.exceptions.WrongArgumentException: Malformed database URL, failed to parse the connection string near ';characterEncoding=UTF-8'.
+### The error may exist in com/yt/meituan/mapper/MtOssMapper.java (best guess)
+### The error may involve com.yt.meituan.mapper.MtOssMapper.insert
+### The error occurred while executing an update
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLNonTransientConnectionException: Cannot load connection class because of underlying exception: com.mysql.cj.exceptions.WrongArgumentException: Malformed database URL, failed to parse the connection string near ';characterEncoding=UTF-8'.]
+2021-09-18 11:49:55.403 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAdvertisingMapper' and 'com.yt.meituan.mapper.MtAdvertisingMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:49:55.403 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAttachmentMapper' and 'com.yt.meituan.mapper.MtAttachmentMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:49:55.403 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtDictionariesMapper' and 'com.yt.meituan.mapper.MtDictionariesMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:49:55.403 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtOssMapper' and 'com.yt.meituan.mapper.MtOssMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:49:55.403 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtRestaurantMapper' and 'com.yt.meituan.mapper.MtRestaurantMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:49:55.403 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtVarietyMapper' and 'com.yt.meituan.mapper.MtVarietyMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:49:55.404 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'sysUserMapper' and 'com.yt.meituan.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:49:55.404 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yt.meituan.mapper]' package. Please check your configuration.
+2021-09-18 11:54:37.731 [http-nio-8082-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.jdbc.BadSqlGrammarException: 
+### Error updating database.  Cause: java.sql.SQLSyntaxErrorException: Table 'admin_template.mt_oss' doesn't exist
+### The error may exist in com/yt/meituan/mapper/MtOssMapper.java (best guess)
+### The error may involve com.yt.meituan.mapper.MtOssMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO mt_oss  ( id, file_url, oss_name, file_name )  VALUES  ( ?, ?, ?, ? )
+### Cause: java.sql.SQLSyntaxErrorException: Table 'admin_template.mt_oss' doesn't exist
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'admin_template.mt_oss' doesn't exist]
+2021-09-18 11:55:27.708 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAdvertisingMapper' and 'com.yt.meituan.mapper.MtAdvertisingMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:55:27.708 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAttachmentMapper' and 'com.yt.meituan.mapper.MtAttachmentMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:55:27.709 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtDictionariesMapper' and 'com.yt.meituan.mapper.MtDictionariesMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:55:27.709 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtOssMapper' and 'com.yt.meituan.mapper.MtOssMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:55:27.709 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtRestaurantMapper' and 'com.yt.meituan.mapper.MtRestaurantMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:55:27.709 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtVarietyMapper' and 'com.yt.meituan.mapper.MtVarietyMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:55:27.709 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'sysUserMapper' and 'com.yt.meituan.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 11:55:27.709 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yt.meituan.mapper]' package. Please check your configuration.
+2021-09-18 12:06:46.469 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAdvertisingMapper' and 'com.yt.meituan.mapper.MtAdvertisingMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:06:46.470 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAttachmentMapper' and 'com.yt.meituan.mapper.MtAttachmentMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:06:46.470 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtDictionariesMapper' and 'com.yt.meituan.mapper.MtDictionariesMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:06:46.470 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtOssMapper' and 'com.yt.meituan.mapper.MtOssMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:06:46.470 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtRestaurantMapper' and 'com.yt.meituan.mapper.MtRestaurantMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:06:46.470 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtVarietyMapper' and 'com.yt.meituan.mapper.MtVarietyMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:06:46.470 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'sysUserMapper' and 'com.yt.meituan.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:06:46.470 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yt.meituan.mapper]' package. Please check your configuration.
+2021-09-18 12:09:15.856 [RMI TCP Accept-0] WARN  sun.rmi.transport.tcp - RMI TCP Accept-0: accept loop for ServerSocket[addr=0.0.0.0/0.0.0.0,localport=61366] throws
+java.io.IOException: The server sockets created using the LocalRMIServerSocketFactory only accept connections from clients running on the host where the RMI remote objects have been exported.
+	at sun.management.jmxremote.LocalRMIServerSocketFactory$1.accept(LocalRMIServerSocketFactory.java:114)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.executeAcceptLoop(TCPTransport.java:400)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.run(TCPTransport.java:372)
+	at java.lang.Thread.run(Thread.java:745)
+2021-09-18 12:11:49.039 [RMI TCP Accept-0] WARN  sun.rmi.transport.tcp - RMI TCP Accept-0: accept loop for ServerSocket[addr=0.0.0.0/0.0.0.0,localport=61366] throws
+java.io.IOException: The server sockets created using the LocalRMIServerSocketFactory only accept connections from clients running on the host where the RMI remote objects have been exported.
+	at sun.management.jmxremote.LocalRMIServerSocketFactory$1.accept(LocalRMIServerSocketFactory.java:114)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.executeAcceptLoop(TCPTransport.java:400)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.run(TCPTransport.java:372)
+	at java.lang.Thread.run(Thread.java:745)
+2021-09-18 12:11:49.150 [RMI TCP Accept-0] WARN  sun.rmi.transport.tcp - RMI TCP Accept-0: accept loop for ServerSocket[addr=0.0.0.0/0.0.0.0,localport=61366] throws
+java.io.IOException: The server sockets created using the LocalRMIServerSocketFactory only accept connections from clients running on the host where the RMI remote objects have been exported.
+	at sun.management.jmxremote.LocalRMIServerSocketFactory$1.accept(LocalRMIServerSocketFactory.java:114)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.executeAcceptLoop(TCPTransport.java:400)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.run(TCPTransport.java:372)
+	at java.lang.Thread.run(Thread.java:745)
+2021-09-18 12:11:49.276 [RMI TCP Accept-0] WARN  sun.rmi.transport.tcp - RMI TCP Accept-0: accept loop for ServerSocket[addr=0.0.0.0/0.0.0.0,localport=61366] throws
+java.io.IOException: The server sockets created using the LocalRMIServerSocketFactory only accept connections from clients running on the host where the RMI remote objects have been exported.
+	at sun.management.jmxremote.LocalRMIServerSocketFactory$1.accept(LocalRMIServerSocketFactory.java:114)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.executeAcceptLoop(TCPTransport.java:400)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.run(TCPTransport.java:372)
+	at java.lang.Thread.run(Thread.java:745)
+2021-09-18 12:11:49.391 [RMI TCP Accept-0] WARN  sun.rmi.transport.tcp - RMI TCP Accept-0: accept loop for ServerSocket[addr=0.0.0.0/0.0.0.0,localport=61366] throws
+java.io.IOException: The server sockets created using the LocalRMIServerSocketFactory only accept connections from clients running on the host where the RMI remote objects have been exported.
+	at sun.management.jmxremote.LocalRMIServerSocketFactory$1.accept(LocalRMIServerSocketFactory.java:114)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.executeAcceptLoop(TCPTransport.java:400)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.run(TCPTransport.java:372)
+	at java.lang.Thread.run(Thread.java:745)
+2021-09-18 12:11:50.397 [RMI TCP Accept-0] WARN  sun.rmi.transport.tcp - RMI TCP Accept-0: accept loop for ServerSocket[addr=0.0.0.0/0.0.0.0,localport=61366] throws
+java.io.IOException: The server sockets created using the LocalRMIServerSocketFactory only accept connections from clients running on the host where the RMI remote objects have been exported.
+	at sun.management.jmxremote.LocalRMIServerSocketFactory$1.accept(LocalRMIServerSocketFactory.java:114)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.executeAcceptLoop(TCPTransport.java:400)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.run(TCPTransport.java:372)
+	at java.lang.Thread.run(Thread.java:745)
+2021-09-18 12:11:50.508 [RMI TCP Accept-0] WARN  sun.rmi.transport.tcp - RMI TCP Accept-0: accept loop for ServerSocket[addr=0.0.0.0/0.0.0.0,localport=61366] throws
+java.io.IOException: The server sockets created using the LocalRMIServerSocketFactory only accept connections from clients running on the host where the RMI remote objects have been exported.
+	at sun.management.jmxremote.LocalRMIServerSocketFactory$1.accept(LocalRMIServerSocketFactory.java:114)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.executeAcceptLoop(TCPTransport.java:400)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.run(TCPTransport.java:372)
+	at java.lang.Thread.run(Thread.java:745)
+2021-09-18 12:11:52.516 [RMI TCP Accept-0] WARN  sun.rmi.transport.tcp - RMI TCP Accept-0: accept loop for ServerSocket[addr=0.0.0.0/0.0.0.0,localport=61366] throws
+java.io.IOException: The server sockets created using the LocalRMIServerSocketFactory only accept connections from clients running on the host where the RMI remote objects have been exported.
+	at sun.management.jmxremote.LocalRMIServerSocketFactory$1.accept(LocalRMIServerSocketFactory.java:114)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.executeAcceptLoop(TCPTransport.java:400)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.run(TCPTransport.java:372)
+	at java.lang.Thread.run(Thread.java:745)
+2021-09-18 12:11:52.627 [RMI TCP Accept-0] WARN  sun.rmi.transport.tcp - RMI TCP Accept-0: accept loop for ServerSocket[addr=0.0.0.0/0.0.0.0,localport=61366] throws
+java.io.IOException: The server sockets created using the LocalRMIServerSocketFactory only accept connections from clients running on the host where the RMI remote objects have been exported.
+	at sun.management.jmxremote.LocalRMIServerSocketFactory$1.accept(LocalRMIServerSocketFactory.java:114)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.executeAcceptLoop(TCPTransport.java:400)
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.run(TCPTransport.java:372)
+	at java.lang.Thread.run(Thread.java:745)
+2021-09-18 12:55:45.551 [http-nio-8082-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+### The error may exist in com/yt/meituan/mapper/MtOssMapper.java (best guess)
+### The error may involve com.yt.meituan.mapper.MtOssMapper.selectList
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+2021-09-18 12:59:13.722 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAdvertisingMapper' and 'com.yt.meituan.mapper.MtAdvertisingMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:59:13.722 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAttachmentMapper' and 'com.yt.meituan.mapper.MtAttachmentMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:59:13.722 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtDictionariesMapper' and 'com.yt.meituan.mapper.MtDictionariesMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:59:13.722 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtOssMapper' and 'com.yt.meituan.mapper.MtOssMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:59:13.722 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtRestaurantMapper' and 'com.yt.meituan.mapper.MtRestaurantMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:59:13.722 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtVarietyMapper' and 'com.yt.meituan.mapper.MtVarietyMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:59:13.723 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'sysUserMapper' and 'com.yt.meituan.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 12:59:13.723 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yt.meituan.mapper]' package. Please check your configuration.
+2021-09-18 13:02:25.643 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAdvertisingMapper' and 'com.yt.meituan.mapper.MtAdvertisingMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:02:25.643 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAttachmentMapper' and 'com.yt.meituan.mapper.MtAttachmentMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:02:25.643 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtDictionariesMapper' and 'com.yt.meituan.mapper.MtDictionariesMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:02:25.643 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtOssMapper' and 'com.yt.meituan.mapper.MtOssMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:02:25.643 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtRestaurantMapper' and 'com.yt.meituan.mapper.MtRestaurantMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:02:25.644 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtVarietyMapper' and 'com.yt.meituan.mapper.MtVarietyMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:02:25.644 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'sysUserMapper' and 'com.yt.meituan.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:02:25.644 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yt.meituan.mapper]' package. Please check your configuration.
+2021-09-18 13:07:12.124 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAdvertisingMapper' and 'com.yt.meituan.mapper.MtAdvertisingMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:07:12.124 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtAttachmentMapper' and 'com.yt.meituan.mapper.MtAttachmentMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:07:12.124 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtDictionariesMapper' and 'com.yt.meituan.mapper.MtDictionariesMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:07:12.125 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtOssMapper' and 'com.yt.meituan.mapper.MtOssMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:07:12.125 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtRestaurantMapper' and 'com.yt.meituan.mapper.MtRestaurantMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:07:12.125 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'mtVarietyMapper' and 'com.yt.meituan.mapper.MtVarietyMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:07:12.125 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'sysUserMapper' and 'com.yt.meituan.mapper.SysUserMapper' mapperInterface. Bean already defined with the same name!
+2021-09-18 13:07:12.125 [restartedMain] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.yt.meituan.mapper]' package. Please check your configuration.
+2021-09-18 13:08:39.048 [http-nio-8082-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Invalid numeric value: Leading zeroes not allowed; nested exception is com.fasterxml.jackson.core.JsonParseException: Invalid numeric value: Leading zeroes not allowed
+ at [Source: (PushbackInputStream); line: 2, column: 11]]

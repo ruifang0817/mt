@@ -1,0 +1,37 @@
+2021-09-18 10:40:47.133 [main] DEBUG com.yt.meituan.TestAutoGenerator - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 10:46:29.855 [main] DEBUG com.yt.meituan.TestAutoGenerator - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 10:46:56.874 [main] DEBUG com.yt.meituan.TestAutoGenerator - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 10:48:51.521 [main] DEBUG com.yt.meituan.TestAutoGenerator - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 10:55:16.037 [main] DEBUG com.yt.meituan.TestAutoGenerator - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 10:58:09.277 [main] DEBUG com.yt.meituan.TestAutoGenerator - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:09:00.010 [main] DEBUG com.yt.meituan.TestAutoGenerator - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:09:18.639 [main] DEBUG com.yt.meituan.TestAutoGenerator - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:09:40.657 [main] DEBUG com.yt.meituan.TestAutoGenerator - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:10:01.524 [main] DEBUG com.yt.meituan.TestAutoGenerator - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:13:09.501 [main] DEBUG com.yt.meituan.TestAutoGenerator - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:13:28.731 [main] DEBUG com.yt.meituan.TestAutoGenerator - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:33:06.256 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:33:41.389 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:36:13.065 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:41:25.261 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:41:45.041 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:42:09.776 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:44:01.192 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:46:53.913 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:49:54.390 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:54:36.557 [http-nio-8082-exec-1] DEBUG com.yt.meituan.mapper.MtOssMapper.insert - ==>  Preparing: INSERT INTO mt_oss ( id, file_url, oss_name, file_name ) VALUES ( ?, ?, ?, ? ) 
+2021-09-18 11:54:36.622 [http-nio-8082-exec-1] DEBUG com.yt.meituan.mapper.MtOssMapper.insert - ==> Parameters: 1439075336190771202(Long), http://admin-vue-templatea.oss-cn-beijing.aliyuncs.com/mt/20210918/a1154867487a4149bcda1ed77f3a1b07-sp1.jpg?Expires=1947297270&OSSAccessKeyId=LTAI5tAL58KhVpKhG5fWvyWG&Signature=0LtAREsIK0MGXfSZK5iHczSRX6U%3D(String), mt/20210918/a1154867487a4149bcda1ed77f3a1b07-sp1.jpg(String), sp1.jpg(String)
+2021-09-18 11:55:26.399 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 11:56:40.025 [http-nio-8082-exec-1] DEBUG com.yt.meituan.mapper.MtOssMapper.insert - ==>  Preparing: INSERT INTO mt_oss ( id, file_url, oss_name, file_name ) VALUES ( ?, ?, ?, ? ) 
+2021-09-18 11:56:40.043 [http-nio-8082-exec-1] DEBUG com.yt.meituan.mapper.MtOssMapper.insert - ==> Parameters: 1439075864375316481(Long), http://admin-vue-templatea.oss-cn-beijing.aliyuncs.com/mt/20210918/d30f7b16fe194ca69fba93ad60689dbf-sp1.jpg?Expires=1947297397&OSSAccessKeyId=LTAI5tAL58KhVpKhG5fWvyWG&Signature=hi%2FqxHvzALw2y8%2BBbiPeNIuT56E%3D(String), mt/20210918/d30f7b16fe194ca69fba93ad60689dbf-sp1.jpg(String), sp1.jpg(String)
+2021-09-18 11:56:40.504 [http-nio-8082-exec-1] DEBUG com.yt.meituan.mapper.MtOssMapper.insert - <==    Updates: 1
+2021-09-18 11:57:58.182 [http-nio-8082-exec-3] DEBUG com.yt.meituan.mapper.MtOssMapper.selectList - ==>  Preparing: SELECT id,file_url,oss_name,file_name,create_time FROM mt_oss 
+2021-09-18 11:57:58.183 [http-nio-8082-exec-3] DEBUG com.yt.meituan.mapper.MtOssMapper.selectList - ==> Parameters: 
+2021-09-18 11:57:58.479 [http-nio-8082-exec-3] DEBUG com.yt.meituan.mapper.MtOssMapper.selectList - <==      Total: 1
+2021-09-18 12:06:45.569 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 12:59:12.504 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 13:02:24.667 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-18 13:02:38.626 [http-nio-8082-exec-6] DEBUG com.yt.meituan.mapper.SysUserMapper.selectList - ==>  Preparing: SELECT id,name,mobile,password,sex,age,avatar,email,create_time,update_time,delete_flag,disabled_flag,wx_id,qq_id FROM sys_user 
+2021-09-18 13:02:38.663 [http-nio-8082-exec-6] DEBUG com.yt.meituan.mapper.SysUserMapper.selectList - ==> Parameters: 
+2021-09-18 13:02:38.795 [http-nio-8082-exec-6] DEBUG com.yt.meituan.mapper.SysUserMapper.selectList - <==      Total: 0
+2021-09-18 13:07:11.113 [restartedMain] DEBUG com.yt.meituan.MeituanApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
